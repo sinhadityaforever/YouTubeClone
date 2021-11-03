@@ -1,9 +1,14 @@
 .videoCard{
-margin: 40px;
+margin: 10px;
 margin-top: 0px;
 width: 270px;
 
 
+}
+.videoCard__image{
+    object-fit: contain;
+    width: 270px;
+    
 }
 
 .videoCard__avatar{
